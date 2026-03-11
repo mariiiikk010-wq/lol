@@ -1,0 +1,19 @@
+/* Основные стили для контента */
+.content-box {
+    background-color: #f6f6f6;
+    margin-bottom: 15px;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+/* Чтобы страница была длинной и можно было скроллить */
+p {
+    height: 1000px; 
+}
+
+/* Настройка внешнего вида заголовка в Navbar */
+.navbar-brand h1 {
+    margin-top: 0;
+    color: #555;
+    font-weight: bold;
+}
